@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project provides an educational Jupyter Notebook (`FLIQ_Education_track_Implementing_quantum_algorithms.ipynb`) that explains and implements Grover's quantum search algorithm using Qiskit. The tutorial is designed for individuals new to quantum computing or those looking to understand the mechanics of Grover's algorithm, from its conceptual strategy to practical implementation on simulators and (placeholder for) real quantum hardware.
+This project was developed as a part of the educational challenge in FLIQ (Future Leaders in Quantum) hackathon, and it provides an educational Jupyter Notebook (`FLIQ_Education_track_Implementing_quantum_algorithms.ipynb`) that explains and implements Grover's quantum search algorithm using Qiskit. The tutorial is designed for individuals new to quantum computing or those looking to understand the mechanics of Grover's algorithm, from its conceptual strategy to practical implementation on simulators and (placeholder for) real quantum hardware.
 
 The core goal is to simplify quantum search by breaking down the algorithm into understandable components: superposition, the oracle (marking the target), and the diffuser (amplitude amplification).
 
